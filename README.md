@@ -81,5 +81,10 @@
 
 <br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=es-tania&&style=flat-square" align="center" />
+</div>  
+  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=es-tania&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&show_icons=true)
