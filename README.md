@@ -16,13 +16,13 @@ On me décrit souvent comme une personne **agréable**, **optimiste** et **posit
 
 Pendant mon temps libre, j’écoute beaucoup de musique pour me détendre et me détendre et de penser à autre chose. Mettre son cerveau en off et juste se laisser emporter par celle-ci. La chanson qui m’inspire le plus ? *Do It* de **Stray Kids**, pour son message simple et puissant :
 
-✨
-> Crois en toi.
-> Arrête d’hésiter.
-> Arrête de trop réfléchir.
-> Fais ce qui te passionne.
-> Même si c’est difficile, continue.
-> C’est comme ça que tu grandis.*
+✨  
+> Crois en toi.  
+> Arrête d’hésiter.  
+> Arrête de trop réfléchir.  
+> Fais ce qui te passionne.  
+> Même si c’est difficile, continue.  
+> C’est comme ça que tu grandis.  
 ✨
 
 J’aime aussi regarder des séries, des animés japonais, lire des mangas et roman, ainsi qu’en collectionner — j’en ai une belle quantité ! Ces univers m’inspirent beaucoup au quotidien.
