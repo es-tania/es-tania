@@ -1,25 +1,28 @@
 # Bienvenue sur mon GitHub ! 😄
 
 Avant de plonger dans mes projets, une petite présentation s’impose.
-Je m’appelle Tania Esteves et je suis diplômée en ingénierie informatique à l’ESIEE Paris. Au cours de mes études, j’ai développé un véritable intérêt pour le développement informatique, domaine dans lequel j’ai aujourd’hui envie d’évoluer professionnellement.
+
+Je m’appelle **Tania Esteves** et je suis diplômée en **ingénierie informatique** à **l’ESIEE Paris**. Au cours de mes études, j’ai développé un véritable intérêt pour le **développement informatique**, domaine dans lequel j’ai aujourd’hui envie d’évoluer professionnellement.
+
 En parcourant ce GitHub, vous découvrirez différents projets qui m’ont permis de renforcer mes compétences et de devenir la développeuse que je suis aujourd’hui. Bonne visite ! 😉
 
 ## Qui suis-je ?
 
-De nature calme mais joviale, je m’adapte facilement aux situations et aux personnes avec lesquelles je travaille. Polyvalente et organisée, je sais travailler aussi bien en autonomie qu’en équipe, toujours avec motivation et implication.  Dans chacun de mes projets, j’accorde beaucoup d’importance à la bienveillance, à la communication, au respect et à l’efficacité. L’entraide, l’honnêteté et la fidélité, sont aussi des valeurs essentielles qui guident ma façon d’être et de travailler.
+De nature calme mais joviale, je m’adapte facilement aux situations et aux personnes avec lesquelles je travaille. Polyvalente et organisée, je sais travailler aussi bien en autonomie qu’en équipe, toujours avec motivation et implication.  Dans chacun de mes projets, j’accorde beaucoup d’importance à la **bienveillance**, à la **communication**, au **respect** et à l’**efficacité**. L’**entraide**, l’**honnêteté** et la **fidélité**, sont aussi des valeurs essentielles qui guident ma façon d’être et de travailler.
 
 ## Et côté personnel ?
 
-On me décrit souvent comme une personne agréable, optimiste et positive. J’essaie toujours de garder le sourire et de transmettre de la bonne humeur autour de moi.
-Pendant mon temps libre, j’écoute beaucoup de musique pour me détendre et me détendre et de penser à autre chose. Mettre son cerveau en off et juste se laisser emporter par celle-ci. La chanson qui m’inspire le plus ? Do It de Stray Kids, pour son message simple et puissant :
+On me décrit souvent comme une personne **agréable**, **optimiste** et **positive**. J’essaie toujours de garder le **sourire** et de transmettre de la **bonne humeur** autour de moi.
+
+Pendant mon temps libre, j’écoute beaucoup de musique pour me détendre et me détendre et de penser à autre chose. Mettre son cerveau en off et juste se laisser emporter par celle-ci. La chanson qui m’inspire le plus ? *Do It* de **Stray Kids**, pour son message simple et puissant :
 
 ✨
-Crois en toi.
+*Crois en toi.
 Arrête d’hésiter.
 Arrête de trop réfléchir.
 Fais ce qui te passionne.
 Même si c’est difficile, continue.
-C’est comme ça que tu grandis.
+C’est comme ça que tu grandis.*
 ✨
 
 J’aime aussi regarder des séries, des animés japonais, lire des mangas et roman, ainsi qu’en collectionner — j’en ai une belle quantité ! Ces univers m’inspirent beaucoup au quotidien.
