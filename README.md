@@ -68,7 +68,7 @@ J’aime aussi regarder des séries, des animés japonais, lire des mangas et ro
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Linux](https://img.shields.io/badge/linux-%23F24E1E.svg?style=for-the-badge&logo=linux&logoColor=white) 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
