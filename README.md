@@ -25,7 +25,26 @@ Pendant mon temps libre, j’écoute beaucoup de musique pour me détendre et me
 
 J’aime aussi regarder des séries, des animés japonais, lire des mangas et roman, ainsi qu’en collectionner — j’en ai une belle quantité ! Ces univers m’inspirent beaucoup au quotidien.
 
-# 💻 Tech Stack:
+# Contacts 
+<div align="center">
+  <a href="https://github.com/es-tania" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://gitlab.com/es-tania" target="_blank">
+    <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/tania-e-8433111b7" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
+</div>  
+  
+<br/>  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=es-tania&&style=flat-square" align="center" />
+</div>  
+  
+# 💻 Stack Technique
 
 ## Frontend
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -58,7 +77,7 @@ J’aime aussi regarder des séries, des animés japonais, lire des mangas et ro
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-## Other
+## Autre
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -70,25 +89,7 @@ J’aime aussi regarder des séries, des animés japonais, lire des mangas et ro
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23F24E1E.svg?style=for-the-badge&logo=linux&logoColor=white) 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/es-tania" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/es-tania" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/tania-e-8433111b7" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=es-tania&&style=flat-square" align="center" />
-</div>  
-  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=es-tania&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&show_icons=true)
