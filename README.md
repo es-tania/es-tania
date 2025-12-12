@@ -76,7 +76,5 @@ J’aime aussi regarder des séries, des animés japonais, lire des mangas et ro
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23F24E1E.svg?style=for-the-badge&logo=linux&logoColor=white) 
 
-
-
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=es-tania&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&show_icons=true)
