@@ -25,25 +25,12 @@ Pendant mon temps libre, j’écoute beaucoup de musique pour me détendre et me
 
 J’aime aussi regarder des séries, des animés japonais, lire des mangas et roman, ainsi qu’en collectionner — j’en ai une belle quantité ! Ces univers m’inspirent beaucoup au quotidien.
 
-# Contacts 
-<div align="center">
-  <a href="https://github.com/es-tania" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://gitlab.com/es-tania" target="_blank">
-    <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/tania-e-8433111b7" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>  
-</div>  
-  
-<br/>  
+## Contacts 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=es-tania&&style=flat-square" align="center" />
-</div>  
-  
+<a href="https://linkedin.com/in/tania-e-8433111b7" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+
 # 💻 Stack Technique
 
 ## Frontend
