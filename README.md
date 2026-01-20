@@ -14,7 +14,7 @@ De nature calme mais joviale, je m’adapte facilement aux situations et aux per
 
 On me décrit souvent comme une personne **agréable**, **optimiste** et **positive**. J’essaie toujours de garder le **sourire** et de transmettre de la **bonne humeur** autour de moi.
 
-Pendant mon temps libre, j’écoute beaucoup de musique pour me détendre et me détendre et de penser à autre chose. Mettre son cerveau en off et juste se laisser emporter par celle-ci. La chanson qui m’inspire le plus ? *Do It* de **Stray Kids**, pour son message simple et puissant :
+Pendant mon temps libre, j’écoute beaucoup de musique pour me détendre et penser à autre chose. Mettre son cerveau en off et juste se laisser emporter par celle-ci. La chanson qui m’inspire le plus ? *Do It* de **Stray Kids**, pour son message simple et puissant :
 
 *Crois en toi.*  
 *Arrête d’hésiter.*  
