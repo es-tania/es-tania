@@ -92,4 +92,4 @@ J’aime aussi regarder des séries, des animés japonais, lire des mangas et ro
 ![Patreon Badge](https://img.shields.io/badge/Patreon-000?logo=patreon&logoColor=fff&style=for-the-badge)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=es-tania&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&show_icons=true)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=es-tania&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&show_icons=true)
